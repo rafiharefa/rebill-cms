@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_title_titles",
+  "info": {
+    "displayName": "title",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "sectionTitle": {
+      "type": "string"
+    },
+    "sectionMedia": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}
